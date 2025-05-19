@@ -1,3 +1,8 @@
 html {
   scroll-behavior: smooth;
 }
+
+/* About Section */
+ #about {
+  background: #f8f9fa
+ }
